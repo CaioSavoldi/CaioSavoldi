@@ -25,15 +25,6 @@ Aprofundando conhecimentos em **Java**, Orientação a Objetos e me preparando p
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=2&width=800"/>
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=CaioSavoldi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSavoldi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="35%"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioSavoldi&theme=tokyonight&hide_border=true&background=0d1117" width="60%"/>
-
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
