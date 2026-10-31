@@ -14,7 +14,7 @@
 <br><br>
 
 Estudante de Tecnologia com foco em Desenvolvimento Backend.
-Aprofundando conhecimentos em **Java**, Orientação a Objetos e me preparando para **Spring Boot**.
+Aprofundando conhecimentos em **Java** e **Python**, Orientação a Objetos e me preparando para **Spring Boot**.
 
 <br>
 
